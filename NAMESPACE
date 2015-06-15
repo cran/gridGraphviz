@@ -1,6 +1,10 @@
 
-importFrom("grid", "drawDetails")
+import(grid)
+import(graph)
+import(Rgraphviz)
 
-export("grid.graph")
+export("grid.graph",
+       "agopenTrue",
+       "graphWidth",
+       "graphHeight")
 
-S3method("drawDetails", "edgegrob")
