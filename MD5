@@ -1,9 +1,9 @@
-8bbf3e318fbc0466b1004732152ae14b *DESCRIPTION
+90d1e73a1aece1879855f89e9a93de33 *DESCRIPTION
 1a760f4b175e29e78904b2c80d3dd348 *NAMESPACE
 944917812eeb7c3426c66573acaafd20 *R/graph.R
 83e9c35083b9dee6eb49e7c2f87195a1 *R/grobs.R
 93f44f1fba8ac6ac0d57abdf5e8f0605 *R/methods.R
 1d34c0e42b9908193a993921f00e89bc *inst/NEWS.Rd
-6d14615544740adf462931d7cf2553c3 *man/agopenTrue.Rd
-0e0f07c89fbd7ac71efa9439268268c5 *man/graphWidth.Rd
+2d8dc23bc02ac8629758f5143da67ec1 *man/agopenTrue.Rd
+ffaa8a7f3d87dd95c3cb9cc68a9607f8 *man/graphWidth.Rd
 0d4d41e8c090855ea633b44e5600dada *man/grid.graph.Rd
